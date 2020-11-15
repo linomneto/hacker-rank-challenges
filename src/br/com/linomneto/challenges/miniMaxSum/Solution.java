@@ -2,6 +2,9 @@ package br.com.linomneto.challenges.miniMaxSum;
 
 import java.util.*;
 
+/**
+ * https://www.hackerrank.com/challenges/mini-max-sum/
+ */
 public class Solution {
 
     // Complete the miniMaxSum function below.
